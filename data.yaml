@@ -1,0 +1,7 @@
+train: D:/daniel project\wheel 2/train/images
+val: D:/daniel project/wheel 2/valid/images
+test: D:/daniel project/wheel 2/test/images
+
+nc: 2
+names: ['wheel1', 'wheel']
+
